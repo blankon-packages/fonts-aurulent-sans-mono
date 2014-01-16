@@ -8,7 +8,6 @@ Homepage: http://www.pcaro.es/p/hermit
 
 Package: fonts-hermit
 Architecture: all
-Multi-Arch: foreign
 Depends: defoma, fontconfig
 Replaces: ttf-hermit
 Description: Hermit is a monospace font designed to be clear, pragmatic and very readable. 

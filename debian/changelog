@@ -1,3 +1,9 @@
+fonts-hermit (1.21-0blankon2) suroboyo; urgency=low
+
+  * Drop Multi-Arch: foreign
+
+ -- Mahyuddin Ramli <yudi.al@gmail.com>  Thu, 16 Jan 2014 22:08:17 +0700
+
 fonts-hermit (1.21-0blankon1) suroboyo; urgency=low
 
   * New upstream release
