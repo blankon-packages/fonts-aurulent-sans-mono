@@ -1,0 +1,23 @@
+fonts-hermit (1.21-0blankon1) suroboyo; urgency=low
+
+  * New upstream release
+    - Drop support for truetype
+    - Changed "Font name" and "Name for Humans" field
+    - Light and bold versions added.
+    - Update new symbols
+    - Fixed some glyphs
+
+ -- Mahyuddin Ramli <yudi.al@gmail.com>  Thu, 16 Jan 2014 21:13:29 +0700
+
+ttf-hermit (0.0.2) suroboyo; urgency=low
+
+  * Typo Description
+
+ -- Mahyuddin Idram Ahmad <dotovr@di.blankon.in>  Wed, 18 Sep 2013 13:37:01 +0700
+
+ttf-hermit (0.0.1) suroboyo; urgency=low
+
+  * New Release
+  * First upload for suroboyo
+
+ -- Mahyuddin Idram Ahmad <dotovr@di.blankonin>  Wed, 18 Sep 2013 13:29:00 +0700
