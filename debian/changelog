@@ -1,3 +1,9 @@
+fonts-hermit (1.21-0blankon3) tambora; urgency=low
+
+  * First upload to tambora
+
+ -- Syai Mif <syai.unipdu@gmail.com>  Thu, 06 Mar 2014 11:05:09 +0700
+
 fonts-hermit (1.21-0blankon2) suroboyo; urgency=low
 
   * Drop Multi-Arch: foreign
