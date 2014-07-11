@@ -1,15 +1,12 @@
-Source: fonts-hermit
+Source: fonts-aurulent-sans-mono
 Section: x11
 Priority: optional
 Maintainer: BlankOn Developers <BlankOn-Dev@googlegroups.com>
 Build-Depends: cdbs, debhelper (>= 5.0.0)
 Standards-Version: 3.9.4
-Homepage: http://www.pcaro.es/p/hermit
+Homepage: http://fontsquirrel.com/fonts/Aurulent-Sans-Mono
 
-Package: fonts-hermit
+Package: fonts-aurulent-sans-mono
 Architecture: all
 Depends: defoma, fontconfig
-Replaces: ttf-hermit
-Description: Hermit is a monospace font designed to be clear, pragmatic and very readable. 
- Its creation has been focused on programming. Every glyph was carefully planned and calculated, 
- according to defined principles and rules. For this reason, Hermit is coherent and regular.
+Description: Font aurulent sans mono is the latin alphabe owing to political finally displaced other national scr of Italy.
