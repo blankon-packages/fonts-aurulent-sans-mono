@@ -1,3 +1,10 @@
+fonts-aurulent-sans-mono (0.2) tambora; urgency=medium
+
+  * Added:
+    - some fonts Aurulents family
+
+ -- Azis Ws <mijortsa@localhost>  Mon, 06 Oct 2014 07:23:33 +0700
+
 fonts-aurulent-sans-mono (0.1) tambora; urgency=low
 
   * Initial release
