@@ -1,3 +1,9 @@
+fonts-aurulent-sans-mono (0.4) tambora; urgency=medium
+
+  * Rebuild 
+
+ -- dotovr <dotovr@preko>  Tue, 07 Jun 2016 22:22:30 +0700
+
 fonts-aurulent-sans-mono (0.3) tambora; urgency=medium
 
   * fonts *.ttf
