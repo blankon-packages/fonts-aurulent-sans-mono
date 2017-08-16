@@ -1,3 +1,9 @@
+fonts-aurulent-sans-mono (0.5) uluwatu; urgency=medium
+
+  * Rebuild for uluwatu
+
+ -- AnTo SamalonA <ansamsoftdev@gmail.com>  Wed, 16 Aug 2017 16:39:09 +0800
+
 fonts-aurulent-sans-mono (0.4) tambora; urgency=medium
 
   * Rebuild 
